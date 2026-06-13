@@ -31,7 +31,7 @@ This repository contains the projects completed during my CodeAlpha Artificial I
 
 ## Repository Structure
 
-CodeAlpha_Tasks/
+CodeAlpha_Tasks
 
 ├── LanguageTranslationTool
 
